@@ -1,3 +1,3 @@
-c=10
+ca=10
 b=10
-print(c+b)
+print(ca+b)
